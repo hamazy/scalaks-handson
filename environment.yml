@@ -1,0 +1,5 @@
+name: scalaks-handson
+channels:
+  - conda-forge
+dependencies:
+  - beakerx
